@@ -5,11 +5,12 @@
  </div>
 
 ### Backend Developer
-- HanByul
-- Backend Developer
+- Java
+- Spring Boot
+- Oracle
+- JavaScript
 
-
-### Interest
+### readme stats
   <img src="https://github-readme-stats.vercel.app/api?username=blackhabin&show_icons=true&theme=gotham">
   
 <div align=center>
