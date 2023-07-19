@@ -8,12 +8,10 @@
 - HanByul
 - Backend Developer
 
-### Interest
-- Java
-- JavaScript
-- Operation Research
-- Leadership, Mentoring, Writing, Presentation
 
+### Interest
+  <img src="https://github-readme-stats.vercel.app/api?username=ejaman&show_icons=true&theme=gotham">
+  
 <div align=center>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hanbyulchae7/)](https://www.linkedin.com/in/hanbyulchae7/) 
