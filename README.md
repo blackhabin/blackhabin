@@ -57,7 +57,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackhabin&layout=compact">
   </div>
   
-  ![blackhabin's GitHub stats](https://github-readme-stats.vercel.app/api?username=WonjunS&show_icons=true&theme=radical)
+  ![blackhabin's GitHub stats](https://github-readme-stats.vercel.app/api?username=blackhabin&show_icons=true&theme=radical)
 
   </div>
 
