@@ -7,10 +7,12 @@
 </div>
 
 <div align=center> ### Backend Developer </div>
+<div align=center>
 - Java
 - Spring Boot
 - Oracle
 - JavaScript
+</div>
 
 <div align=center>
 ### readme stats
@@ -26,7 +28,7 @@
   
   <br>
 
-<div>
+<div align=center>
   <img src="https://github-readme-stats.vercel.app/api?username=blackhabin&show_icons=true&theme=gotham">
 </div>  
 
