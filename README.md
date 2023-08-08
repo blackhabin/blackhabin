@@ -6,13 +6,20 @@
 	
 </div>
 
-<div align=center> ### Backend Developer </div>
+<div align=center> <h3>Backend Developer</h3></div>
+<br>
+
 <div align=center>
 - Java
+<br>
 - Spring Boot
+<br>	
 - Oracle
+<br>  
 - JavaScript
 </div>
+<br>
+<br>
 
 <div align=center>
 ### readme stats
