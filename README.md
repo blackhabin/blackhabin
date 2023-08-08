@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=240&section=header&text=HanByul%20Seo&fontSize=50&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=HanByul%20Chae&fontSize=40&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62)
 
 <div align=center>
 	
