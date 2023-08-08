@@ -22,7 +22,9 @@
 <br>
 
 <div align=center>
-### readme stats
+<br>
+  <h3>readme stats</h3>
+<br>
 </div>
 
 <div align=center>
