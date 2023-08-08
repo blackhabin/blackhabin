@@ -6,7 +6,7 @@
 	
 </div>
 
-<div align=center> <h3>Backend Developer</h3></div>
+<div align=center> <h3>Backend Developer, HanByul</h3></div>
 <br>
 
 <div align=center>
@@ -45,7 +45,6 @@
 <div align=center>
 <br>
   <h3>readme stats</h3>
-<br>
 </div>
 
 <div align=center>
@@ -54,18 +53,13 @@
       <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseondal&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/>
     </a>
   </div>
-  
-  <br>
-
   <div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackhabin&layout=compact">
   </div>
   
-  <br>
-
   ![blackhabin's GitHub stats](https://github-readme-stats.vercel.app/api?username=WonjunS&show_icons=true&theme=radical)
 
-</div>
+  </div>
 
 
 
