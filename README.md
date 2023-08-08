@@ -22,8 +22,11 @@
   </div>
   
   <br>
-  
+
+<div>
   <img src="https://github-readme-stats.vercel.app/api?username=blackhabin&show_icons=true&theme=gotham">
+</div>  
+
 <div align=center>
 
 
