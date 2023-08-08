@@ -13,9 +13,20 @@
 - JavaScript
 
 ### readme stats
-  <img src="https://github-readme-stats.vercel.app/api?username=blackhabin&show_icons=true&theme=gotham">
+
+  <div align=center>
+  <div>
+    <a href="https://github.com/blackhabin">
+      <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseondal&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/>
+    </a>
+  </div>
   
+  <br>
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=blackhabin&show_icons=true&theme=gotham">
 <div align=center>
+
+
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hanbyulchae7/)](https://www.linkedin.com/in/hanbyulchae7/) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/hanbyulchae7/)](https://www.instagram.com/hanbyulchae7/) 
