@@ -6,7 +6,7 @@
 	
 </div>
 
-<div align=center> <h3>Backend Developer, HanByul</h3></div>
+<div align=center> <h3>Backend Developer, HanByul!</h3></div>
 <br>
 
 <div align=center>
