@@ -7,7 +7,6 @@
 </div>
 
 <div align=center> <h3>Backend Developer, HanByul!!</h3></div>
-<br>
 
 <div align="center">
   <p><a href="https://velog.io/@onestar0608" target="_blank"><img src="https://img.shields.io/badge/BLOG-F8C517?style=flat&logo=Velog&&logoColor=white"/></a></p>
